@@ -233,7 +233,7 @@ Build a **Rust back-end inference service** that can **load and serve multiple L
 
   * `curl` snippets and a tiny Rust CLI sample.
 
-## Responsibilities (Single-Member Team)
+## Responsibilities
 
 * **Architecture & Implementation:** All Rust code (server, backend trait, Candle backend, scheduler, streaming, safety filters).
 * **DevOps & Packaging:** Dockerfile, config templates, sample systemd unit (if time).
