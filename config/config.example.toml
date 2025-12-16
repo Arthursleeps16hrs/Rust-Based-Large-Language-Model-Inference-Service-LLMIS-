@@ -1,0 +1,23 @@
+[server]
+host = "0.0.0.0"
+port = 8080
+enable_ui = true
+
+[limits]
+max_tokens = 1024
+max_concurrent = 2
+queue_depth = 32
+
+## Example real model (requires --features llm-backend and a local GGUF file)
+## Uncomment and adjust the path to try with a real model.
+# [[models]]
+# name = "local-llm"
+# path = "/absolute/path/to/llama-2-7b-chat.Q4_K_M.gguf"
+# backend = "llama-server"
+# arch = "llama"
+# device = "cpu"
+# max_concurrent = 1
+# server_url = "http://127.0.0.1:8081"
+
+[safety]
+denylist = ["forbidden_word", "do_not_reply"]
