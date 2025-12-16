@@ -101,4 +101,4 @@ LLMIS — Final Report
 - [Link to Video Slide Presentation](https://youtu.be/CA2HCZ5bvjY)
 
 ## Video Demo
-- (Link to be added)
+- [Link to Video Presentation](https://youtu.be/CA2HCZ5bvjY)
