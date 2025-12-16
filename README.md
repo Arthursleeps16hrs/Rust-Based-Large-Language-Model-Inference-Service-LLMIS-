@@ -98,7 +98,7 @@ LLMIS — Final Report
 - Future work: richer stop/templating controls, optional auth, alternative backends (e.g., Candle) behind the same trait, and better prompt templates tuned for llama.cpp chat.
 
 ## Video Slide Presentation
-- [Link to Video Slide Presentation](https://youtu.be/CA2HCZ5bvjY)
+- [Link to Video Slide Presentation](https://youtu.be/_81T_evgOfw)
 
 ## Video Demo
-- [Link to Video Presentation](https://youtu.be/CA2HCZ5bvjY)
+- [Link to Video Presentation](https://youtu.be/12-V2ndtgnQ)
